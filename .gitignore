@@ -1,1 +1,3 @@
-data/audio/*.mp3
+data/audio/*.wav
+m4a_audio/*
+data/train.tfrecord*
