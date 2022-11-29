@@ -1,1 +1,1 @@
-# Credit to David Morgan for supplying his vocal stems
+# Credit for vocals to David Morgan
